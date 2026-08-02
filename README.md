@@ -44,11 +44,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/snu25311a0579)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamidalavarshitha&show_icons=true&locale=en&layout=compact" alt="mamidalavarshitha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamidalavarshitha&show_icons=true&locale=en" alt="mamidalavarshitha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamidalavarshitha&" alt="mamidalavarshitha" /></p
 
 ## certifications
 * **[MS WORD certification]**
